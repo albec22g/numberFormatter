@@ -1,0 +1,26 @@
+{
+  "name": "numberformatter",
+  "version": "0.1.0",
+  "description": "Convert and format a number to string. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albec22g/numberFormatter.git"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": "Albert Chan <albec22@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albec22g/numberFormatter/issues"
+  },
+  "homepage": "https://github.com/albec22g/numberFormatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
